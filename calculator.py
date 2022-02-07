@@ -3,6 +3,6 @@ def add(x, y):
 	return result
 
 
-def subtract(x, y):
-	result = x - y
+def subtract(a, b):
+	result = a - b
 	return result
