@@ -4,5 +4,5 @@ def add(x, y):
 
 
 def subtract(x, y):
-	result = x - y
-	return result
+	answer = x - y
+	return answer
