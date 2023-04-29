@@ -6,3 +6,8 @@ def add(x, y):
 def subtract(x, y):
 	answer = x - y
 	return answer
+
+def multiply(x, y):
+	answer = x * y
+	return answer
+
